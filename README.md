@@ -1,3 +1,5 @@
 # toy_ds_project
 
 Project creation date: 05/10/2026
+
+Author: Jack Black
